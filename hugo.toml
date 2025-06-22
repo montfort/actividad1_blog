@@ -5,3 +5,6 @@ theme = 'jvm_theme'
 defaultContentLanguage = "es"
 [markup.goldmark.renderer]
   unsafe = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
