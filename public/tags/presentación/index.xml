@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentación on BLOG</title>
+    <link>https://example.org/tags/presentaci%C3%B3n/</link>
+    <description>Recent content in Presentación on BLOG</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
+    <atom:link href="https://example.org/tags/presentaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi experiencia y lo que hago</title>
+      <link>https://example.org/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://example.org/posts/post-1/</guid>
+      <description>¿Quién soy? Mi experiencia y lo que hago. Lo que me impulsa.</description>
+    </item>
+  </channel>
+</rss>

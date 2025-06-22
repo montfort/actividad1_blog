@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-MX'
+title = 'BLOG'
+theme = 'jvm_theme'
+defaultContentLanguage = "es"
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+body {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #333;
+    background-color:  #fff;
+}
+
+.avatar {
+    border-style: solid;
+    border-width: 10px;
+    border-color: #7a7acc;
+}
+
+.saludo {
+    font-family: 'DM Serif Text', serif;
+    font-size: 2.5em;
+    line-height: 0.9em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Serif Text', serif;
+    font-weight: 600;
+    color: #505087;
+    font-size: 1.6em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+} 
+
+p {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: #555;
+}

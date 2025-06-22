@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-MX'
+languageName = 'Spanish'
+name = 'jvm_theme'
+[author]
+  name = 'José Villaseñor Montfort'
+  homepage = 'https://montfort.dev'
+
+[[menus.main]]
+name = 'Inicio'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Publicaciones'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Etiquetas'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
