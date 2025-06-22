@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://montfort.github.io/actividad1_blog/'
 languageCode = 'es-MX'
 title = 'BLOG'
 theme = 'jvm_theme'

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BLOG</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/actividad1_blog/tags/</link>
     <description>Recent content in Tags on BLOG</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/actividad1_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programación</title>
-      <link>https://example.org/tags/programaci%C3%B3n/</link>
+      <link>http://localhost:1313/actividad1_blog/tags/programaci%C3%B3n/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://example.org/tags/programaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/actividad1_blog/tags/programaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Retro</title>
-      <link>https://example.org/tags/retro/</link>
+      <link>http://localhost:1313/actividad1_blog/tags/retro/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://example.org/tags/retro/</guid>
+      <guid>http://localhost:1313/actividad1_blog/tags/retro/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://example.org/tags/python/</link>
+      <link>http://localhost:1313/actividad1_blog/tags/python/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://example.org/tags/python/</guid>
+      <guid>http://localhost:1313/actividad1_blog/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Presentación</title>
-      <link>https://example.org/tags/presentaci%C3%B3n/</link>
+      <link>http://localhost:1313/actividad1_blog/tags/presentaci%C3%B3n/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://example.org/tags/presentaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/actividad1_blog/tags/presentaci%C3%B3n/</guid>
       <description></description>
     </item>
   </channel>

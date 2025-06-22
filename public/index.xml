@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on BLOG</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/actividad1_blog/</link>
     <description>Recent content in Inicio on BLOG</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/actividad1_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi Aventura Recreando la Historia de la Computación con la PiDP-11</title>
-      <link>https://example.org/posts/post-3/</link>
+      <link>http://localhost:1313/actividad1_blog/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://example.org/posts/post-3/</guid>
+      <guid>http://localhost:1313/actividad1_blog/posts/post-3/</guid>
       <description>Si eres fanático de la historia de la computación o simplemente te encanta construir cosas con tus propias manos, ¡este proyecto es para ti!</description>
     </item>
     <item>
       <title>Mi Viaje en el Cifrado RSA: Una Implementación Práctica en Python</title>
-      <link>https://example.org/posts/post-2/</link>
+      <link>http://localhost:1313/actividad1_blog/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://example.org/posts/post-2/</guid>
+      <guid>http://localhost:1313/actividad1_blog/posts/post-2/</guid>
       <description>Este código es el resultado de mi propio aprendizaje y una forma de entender los fundamentos de uno de los algoritmos criptográficos más importantes y ampliamente utilizados en el mundo.</description>
     </item>
     <item>
       <title>Mi experiencia y lo que hago</title>
-      <link>https://example.org/posts/post-1/</link>
+      <link>http://localhost:1313/actividad1_blog/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://example.org/posts/post-1/</guid>
+      <guid>http://localhost:1313/actividad1_blog/posts/post-1/</guid>
       <description>¿Quién soy? Mi experiencia y lo que hago. Lo que me impulsa.</description>
     </item>
   </channel>
