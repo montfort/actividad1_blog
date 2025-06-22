@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/actividad1_blog/posts/post-3/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/posts/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/tags/programaci%C3%B3n/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/tags/programaci%C3%B3n/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/tags/retro/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/tags/retro/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/tags/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/tags/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/posts/post-2/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/tags/python/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/tags/python/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/posts/post-1/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/posts/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/tags/presentaci%C3%B3n/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/tags/presentaci%C3%B3n/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/posts/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actividad1_blog/categories/</loc>
+    <loc>https://montfort.github.io/actividad1_blog/categories/</loc>
   </url>
 </urlset>
